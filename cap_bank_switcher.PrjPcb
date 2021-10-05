@@ -58,7 +58,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UOIZSEKX
 
 [Document2]
-DocumentPath=..\..\..\..\..\dvarx\polybox\PhD\cad\ecad\altium_lib\reed_switch.SchDoc
+DocumentPath=reed_switch.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -210,7 +210,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=\\pia01.d.ethz.ch\p-cla-hp001
+TargetPrinter=Microsoft Print to PDF (umgeleitet 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
