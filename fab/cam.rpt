@@ -1,0 +1,19 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\Public\Documents\Altium\Projects\reed_cap_bank_switch\fab\cam.drl
+Format: 2.3
+Units: English (Inch)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.0280		17
+ 2 		0.0300		4
+ 3 		0.0413		8
+ 4 		0.0433		2
+ 5 		0.0591		36
+ 6 		0.0689		12
+ 7 		0.1220		6
+ 8 		0.1969		6
